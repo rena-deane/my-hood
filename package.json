@@ -4,6 +4,7 @@
   "description": "Get info from Google and Instagram based on your location",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

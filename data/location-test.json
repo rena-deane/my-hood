@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rangitukia Road",
+               "short_name" : "Rangitukia Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tikitiki",
+               "short_name" : "Tikitiki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4087",
+               "short_name" : "4087",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rangitukia Rd, Tikitiki 4087, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.6998294,
+                  "lng" : 178.4947691
+               },
+               "southwest" : {
+                  "lat" : -37.7953613,
+                  "lng" : 178.4091711
+               }
+            },
+            "location" : {
+               "lat" : -37.7674568,
+               "lng" : 178.4650891
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.6998294,
+                  "lng" : 178.4947691
+               },
+               "southwest" : {
+                  "lat" : -37.7953613,
+                  "lng" : 178.4091711
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJlfoZqOXsZG0R7Q1517wMHRA",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
